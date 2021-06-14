@@ -24,9 +24,9 @@ La valeur du capteur de lumière ne reflète que la tendance approximative de l�
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [LM358](https://github.com/pierron-asco-celda/33132-Haut-parleur_Amplificateur_GROVE/blob/main/src/Datasheet_LM386.pdf)
+Ressource utilisation : [LM358](https://github.com/pierron-asco-celda/33164-Phototransistor_GROVE/blob/main/src/Datasheet_LM358.pdf)
 
-Ressource utilisation : [LS06-S](https://github.com/pierron-asco-celda/33132-Haut-parleur_Amplificateur_GROVE/blob/main/src/Datasheet_LM386.pdf)
+Ressource utilisation : [LS06-S](https://github.com/pierron-asco-celda/33164-Phototransistor_GROVE/blob/main/src/Datasheet_LS06.pdf)
 
 # Exemple :
 ### Arduino / C++
