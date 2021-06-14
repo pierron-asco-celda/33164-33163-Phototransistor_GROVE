@@ -20,7 +20,7 @@ Pour l’utilisation de ce module référez-vous aux indications présentes sur 
 
 # Complément sur la programmation :
 
-       La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, elle ne représente PAS le lumen exact.
+La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, elle ne représente PAS le lumen exact.       
 
 # RESSOURCES À TÉLÉCHARGER :
 
@@ -35,7 +35,8 @@ Ressource utilisation : [LS06-S](https://github.com/pierron-asco-celda/33132-Hau
     ** Mesure luminosité en lux V1.1 & V1.2 module Grove **
        PIN A0 Module shield GROVE
        Moniteur série -> Baud rate 9600.
-       La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, elle ne représente PAS le lumen exact.
+       La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, 
+       elle ne représente PAS le lumen exact.
 */
 
 void setup() {
