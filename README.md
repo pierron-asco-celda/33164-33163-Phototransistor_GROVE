@@ -45,7 +45,7 @@ void setup() {
 
 void loop() {
 
-  int value = analogRead(A1);
+  int value = analogRead(A0);
   Serial.print("Luminosité : ");
   Serial.print(value);
   Serial.println(" lux");
