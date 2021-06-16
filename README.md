@@ -34,7 +34,7 @@ Ressource utilisation : [LS06-S](https://github.com/pierron-asco-celda/33164-Pho
 /*
     ** Mesure luminosité en lux V1.1 & V1.2 module Grove **
        PIN A0 Module shield GROVE
-       Moniteur série -> Baud rate 9600.
+       Moniteur série -> Baud rate 9600.*
        La valeur du capteur de lumière ne reflète que la tendance approximative de l’intensité de la lumière, 
        elle ne représente PAS le lumen exact.
 */
@@ -54,5 +54,6 @@ void loop() {
 }
 ```
 ## À propos :
-
+<div style="text-align: justify">*Le débit en bauds est un taux de transfert de données en unités de bits par seconde (bps). Si le débit en bauds est de 9600, cela signifie que la possibilité d’envoyer des données est de 9600 bits en une seconde. 1 caractère est identique à 1 octet.</div>
+<br>
 PIERRON ASCO-CELDA (https://www.pierron.fr).
